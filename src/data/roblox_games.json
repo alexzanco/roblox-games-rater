@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "title": "Bots & Muskets",
+    "genre": "Shooter",
+    "subgenre": "PvE Shooter",
+    "description": "A tactical shooter game featuring muskets and bot enemies.",
+    "roblox_url": "https://www.roblox.com/games/133277436323400/Bots-Muskets",
+    "rating": "10",
+    "image": "",
+    "comment": "Great PvE mechanics!",
+    "visits": "3.4M",
+    "likes": "50K"
+  },
+  {
+    "id": 2,
+    "title": "Brookhaven RP",
+    "genre": "Roleplay",
+    "subgenre": "Town & City",
+    "description": "A place where you can roleplay, own houses, and explore.",
+    "roblox_url": "https://www.roblox.com/games/4924922222/Brookhaven-RP",
+    "rating": "9",
+    "image": "",
+    "comment": "Fun to hang out with friends.",
+    "visits": "50B+",
+    "likes": "15M"
+  },
+  {
+    "id": 3,
+    "title": "Jujutsu Shenanigans",
+    "genre": "Action",
+    "subgenre": "Battlegrounds and Fighting",
+    "description": "Combat battleground game inspired by combat mayhem.",
+    "roblox_url": "https://www.roblox.com/games/9391468976/Jujutsu-Shenanigans",
+    "rating": "9",
+    "image": "",
+    "comment": "Fast paced combat!",
+    "visits": "6.0B+",
+    "likes": "2M"
+  }
+]

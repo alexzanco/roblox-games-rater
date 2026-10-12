@@ -46,3 +46,17 @@ button:hover {
 #genre-list {
     font-size: 18px;
 }
+
+#title-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#game-link {
+    margin-right: 30px;
+}
+
+#game-rating {
+    justify-self: flex-start;
+}
